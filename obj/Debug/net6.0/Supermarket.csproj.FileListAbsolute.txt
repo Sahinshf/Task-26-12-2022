@@ -1,0 +1,15 @@
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\bin\Debug\net6.0\Supermarket.exe
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\bin\Debug\net6.0\Supermarket.deps.json
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\bin\Debug\net6.0\Supermarket.runtimeconfig.json
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\bin\Debug\net6.0\Supermarket.dll
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\bin\Debug\net6.0\Supermarket.pdb
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\obj\Debug\net6.0\Supermarket.csproj.AssemblyReference.cache
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\obj\Debug\net6.0\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\obj\Debug\net6.0\Supermarket.AssemblyInfoInputs.cache
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\obj\Debug\net6.0\Supermarket.AssemblyInfo.cs
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\obj\Debug\net6.0\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\obj\Debug\net6.0\Supermarket.dll
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\obj\Debug\net6.0\refint\Supermarket.dll
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\obj\Debug\net6.0\Supermarket.pdb
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\obj\Debug\net6.0\Supermarket.genruntimeconfig.cache
+C:\Users\Şahin\Desktop\Code Tasks\Supermarket\obj\Debug\net6.0\ref\Supermarket.dll
